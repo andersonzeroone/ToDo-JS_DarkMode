@@ -8,8 +8,19 @@ Para Rodar o projeto basta abrir o arquivo main.js. As informações salvas no t
 * Clicar na opção "aplication";
 * Acessar "LocalStorage";
 
+
+
+## Imagens
+
+
 ![imagem01](./imgs/01.png)
+
+
 
 ## Darkmode
 
+
 ![imagem02](./imgs/02.png)
+
+
+Fonte: 
